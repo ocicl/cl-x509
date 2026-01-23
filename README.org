@@ -4,6 +4,6 @@ X.509 certificate generation in pure Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-x509.git |
-| commit  | 09a0c1a                                    |
+| commit  | 09a0c1b                                    |
 | systems | cl-x509                                    |
 |---------+--------------------------------------------|
